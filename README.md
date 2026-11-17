@@ -40,13 +40,13 @@
 | Database | MariaDB                                               |
 | 협업     | Git, GitHub, Notion                                   |
 
-## 시연
+## 🎥 시연
 
-### 🎥 사용자 — 로그인 · 예약 · 조회 · 후기
+### 사용자 — 로그인 · 예약 · 조회 · 후기
 
 ![사용자 시연](docs/demo-user.gif)
 
-### 🎥 관리자 — 예약 현황 대시보드
+### 관리자 — 예약 현황 대시보드
 
 ![관리자 시연](docs/demo-admin.gif)
 
