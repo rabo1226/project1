@@ -1,17 +1,8 @@
 # AS-FAST · 냉난방 A/S 실시간 예약 서비스
 
-**원하는 날짜와 시간을 바로 골라 냉난방 A/S를 예약하는 웹 서비스**  
-*Java · JavaScript*
+**원하는 날짜와 시간을 바로 골라 냉난방 A/S를 예약하는 웹 서비스**
 
-![Spring Boot 4.0](https://img.shields.io/badge/Spring_Boot-4.0-6db33f) ![MyBatis 4.0](https://img.shields.io/badge/MyBatis-4.0-b32424) ![View Thymeleaf](https://img.shields.io/badge/View-Thymeleaf-005f0f) ![DB MariaDB](https://img.shields.io/badge/DB-MariaDB-003545)
-
-| 항목 | 내용 |
-|------|------|
-| 기간   | 2026.09.08 ~ 2026.09.17 (약 2주)                                                              |
-| 팀     | COMMIT (3명) · 그린AI캠퍼스 평생교육원 「공공데이터를 활용한 AI 풀스택 웹 개발」 1차 프로젝트 |
-| 대주제 | 웹 서비스 기능 구현                                                                           |
-
-------------------------------------------------------------------------
+2026.09.08 ~ 2026.09.17 (약 2주) · 팀 COMMIT 3명 · 그린AI캠퍼스 평생교육원 1차 프로젝트
 
 ## 프로젝트 개요
 
