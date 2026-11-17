@@ -1,4 +1,4 @@
-# AS-FAST · 냉난방 A/S 실시간 예약 서비스
+# <img src="docs/logo.svg" height="32" align="absmiddle"> AS-FAST · 냉난방 A/S 실시간 예약 서비스
 
 **원하는 날짜와 시간을 바로 골라 냉난방 A/S를 예약하는 웹 서비스**
 
